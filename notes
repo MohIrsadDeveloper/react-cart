@@ -1,0 +1,4 @@
+/*********** Types of Hooks **********/
+1. setState Hook => Use to redefine value
+2.context Hook => Use to pass value to child without props
+3.useReducer Hook =>  It is a pure function
